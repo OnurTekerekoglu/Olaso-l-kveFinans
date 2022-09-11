@@ -1,2 +1,2 @@
-# Olaso-l-kveFinans
+# GUNLUKHAYAT ve OLASILIK
 www.patika.dev 
