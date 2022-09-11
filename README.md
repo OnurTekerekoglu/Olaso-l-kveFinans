@@ -1,2 +1,5 @@
-# GUNLUKHAYAT ve OLASILIK
+# GUNLUKHAYAT ve TEKNOLOJİ ve OLASILIK
 www.patika.dev 
+
+# Önce olasılık kavramnını açıklamamızda yarr var. Olasılık bir şeyin olmasının veya olmamasının matematiksel değeri veya olabilirlik yüzdesi, değeridir. Bu anlamdan gerçek hayata uyarlamak istersek eğer. Yılda 82 maça çıkan bir NBA basketbolcusunun, maç içinde kullandığı şut sayısı ve bu şutların kaç tanesinin girip girmediğini yazan bir veri olması muhtemeldir. Bu yüzdendir ki 83. maçta rakip oyuncu az önce belli bir şut yüzdesi bilinen oyuncunun şutlarından kaç denemsinin kaçının sayı olabileceğini bu verilere bakarak tahminedebilir. Ve buna göre kendi savunmasını ayarlayabilir. 
+# Farklı bir açıdan bakacak olursak. Makineye belli yeterli olasılık verisi verebilirsek ve bu veriyi makinenin analiz etmesini ve buna göre hareket etmesini istersek. Makine verilen bilgi konusu hakkında bir ön olasılığa sahip olmuş olur hafızasındaki verilere dayanarak. Bu yüzden Olasılık ve buna bağlı olarak İstatislik bilimleri gelişti. Veriyi olasılık kavramının içine sokarak tahmin etmek insanlarda iç güdüsel olarak yorumlanıp ona göre davranışlarını ayarlıyorsa. Makinelerin de b kabileye parelel olması normaldir. İlerde Miltyarlarca Olasılık verisini elinde tutan bir makinın bir sonraki hamlesinin yüzde kaçı doğru olur.
